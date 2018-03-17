@@ -1,0 +1,1 @@
+Adds 10 hotkeys for the 2nd row of your inventory.

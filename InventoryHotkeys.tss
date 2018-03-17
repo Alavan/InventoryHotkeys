@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\ExampleMod.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\Tiles\ExampleDoorOpen.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\Tiles\ExampleDoorClosed.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\Items\Placeable\ExampleDoor.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\Commands\CoinCommand.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\Commands\ItemCommand.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\Commands\VolcanoCommand.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\ExamplePlayer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\ExampleMod\UI\ExampleUI.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\src\decompiled\Terraria\Player.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Windows\TEMP\MetadataAsSource\c5334dbec84d451a8871742291f4ea6d\4ff6e8a7af7b4a848bfffcbdaca9b139\ModPlayer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\tModLoader\patches\tModLoader\Terraria.ModLoader\ModPlayer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\InventoryHotkeys\PlayerModded.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\akeeler\Google Drive\Terraria Mods\InventoryHotkeys\InventoryHotkeys.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

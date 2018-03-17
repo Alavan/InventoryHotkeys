@@ -1,0 +1,5 @@
+author = Alavan
+
+version = 0.1
+
+displayName = Inventory Hotkeys
